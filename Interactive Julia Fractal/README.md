@@ -25,3 +25,13 @@
 -   Use mousewheel to zoom in/out
 -   Use delete key to restore to default settings
 -   Press left mouse button and drag the mouse to move around the fractal
+
+# Fractal examples:
+
+![1](Examples/1.PNG)
+
+![2](Examples/2.PNG)
+
+![3](Examples/3.PNG)
+
+![4](Examples/4.PNG)
