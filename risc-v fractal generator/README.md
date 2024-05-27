@@ -6,3 +6,6 @@
 # What does it do
 -   It takes two arguments (width, height) passed by console.
 -   Generates predefined Julia fractal on already existing bitmap (in this case test.bmp)
+
+
+![1](test.bmp)
